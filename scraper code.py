@@ -8,12 +8,13 @@ import os
 page = 20
 
 # URL of the API
-url = "https://aoe4world.com/api/v0/games?updatedsince=2024-01-05T00:00:00.000Z&order=updated_at&leaderboard=rm_4v4&page="
+url = "https://aoe4world.com/api/v0/games?updated_since=2024-01-05T00:00:00.000Z&order=updated_at&leaderboard=rm_2v2&page="
 
 directory = "data"
+matchType = "rm_2v2"
 
-if not os.path.exists(directory):
-    os.makedirs(directory)
+if not os.path.exists(os.path.join(directory,matchType)):
+    os.makedirs(os.path.join(directory,matchType))
     print(f"Directory '{directory}' was created successfully.")
 
 x = datetime.datetime.now()
@@ -36,7 +37,7 @@ for p in range(page):
 
         fileName = timeName + " page-" + str(p + 1) + ".json"
         
-        file_path = os.path.join(directory, fileName)
+        file_path = os.path.join(directory,matchType, fileName)
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(json.dumps(data, indent=4))
         print("Data saved successfully.")

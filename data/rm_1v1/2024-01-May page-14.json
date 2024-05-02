@@ -1,0 +1,2666 @@
+{
+    "page": 14,
+    "per_page": 50,
+    "count": 50,
+    "offset": 650,
+    "filters": {
+        "leaderboard": [
+            "rm_1v1"
+        ],
+        "since": null,
+        "profile_ids": null,
+        "order": "updated_at"
+    },
+    "games": [
+        {
+            "game_id": 125913077,
+            "started_at": "2024-05-02T02:11:39.000Z",
+            "updated_at": "2024-05-02T03:36:00.914Z",
+            "duration": 1606,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 926,
+            "average_rating_deviation": 80,
+            "average_mmr": 1058,
+            "average_mmr_deviation": 25,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19422341,
+                            "name": "Venus",
+                            "result": "win",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 845,
+                            "rating_diff": 31,
+                            "mmr": 1083,
+                            "mmr_diff": 20,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 18747352,
+                            "name": "\u961f\u53cb\u5bb6\u91cc\u91c7\u91d1\u77ff",
+                            "result": "loss",
+                            "civilization": "zhu_xis_legacy",
+                            "civilization_randomized": false,
+                            "rating": 1006,
+                            "rating_diff": -21,
+                            "mmr": 1032,
+                            "mmr_diff": -13,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125912862,
+            "started_at": "2024-05-02T02:09:19.000Z",
+            "updated_at": "2024-05-02T03:36:00.876Z",
+            "duration": 1715,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Brazil",
+            "patch": 48,
+            "average_rating": 969,
+            "average_rating_deviation": 37,
+            "average_mmr": 1050,
+            "average_mmr_deviation": 39,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 2919994,
+                            "name": "Nettovski",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 1006,
+                            "rating_diff": 18,
+                            "mmr": 1089,
+                            "mmr_diff": 12,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 6244115,
+                            "name": "Ramos",
+                            "result": "loss",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": 932,
+                            "rating_diff": -19,
+                            "mmr": 1011,
+                            "mmr_diff": -12,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125912759,
+            "started_at": "2024-05-02T02:08:10.000Z",
+            "updated_at": "2024-05-02T03:35:59.968Z",
+            "duration": 1795,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 879,
+            "average_rating_deviation": 9,
+            "average_mmr": 959,
+            "average_mmr_deviation": 3,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 810087,
+                            "name": "muilong",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 870,
+                            "rating_diff": 23,
+                            "mmr": 956,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 18990008,
+                            "name": "Duality",
+                            "result": "loss",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": 888,
+                            "rating_diff": -24,
+                            "mmr": 962,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125912353,
+            "started_at": "2024-05-02T02:03:38.000Z",
+            "updated_at": "2024-05-02T03:35:59.651Z",
+            "duration": 2088,
+            "map": "Rocky River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 823,
+            "average_rating_deviation": 99,
+            "average_mmr": 1000,
+            "average_mmr_deviation": 1,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 7535481,
+                            "name": "Gavin!",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 922,
+                            "rating_diff": -24,
+                            "mmr": 1001,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 1034065,
+                            "name": "Brodysillo",
+                            "result": "win",
+                            "civilization": "byzantines",
+                            "civilization_randomized": false,
+                            "rating": 724,
+                            "rating_diff": 36,
+                            "mmr": 998,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125917508,
+            "started_at": "2024-05-02T02:58:32.000Z",
+            "updated_at": "2024-05-02T03:35:57.603Z",
+            "duration": 873,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1123,
+            "average_rating_deviation": 15,
+            "average_mmr": 1198,
+            "average_mmr_deviation": 6,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 17795547,
+                            "name": "\u73a9\u6e38\u620f\u4e0d\u5982\u7761\u5927\u89c9",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 1107,
+                            "rating_diff": -23,
+                            "mmr": 1191,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 11721810,
+                            "name": "Orianna",
+                            "result": "win",
+                            "civilization": "zhu_xis_legacy",
+                            "civilization_randomized": false,
+                            "rating": 1138,
+                            "rating_diff": 22,
+                            "mmr": 1204,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916613,
+            "started_at": "2024-05-02T02:48:50.000Z",
+            "updated_at": "2024-05-02T03:35:57.577Z",
+            "duration": 1471,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1026,
+            "average_rating_deviation": 6,
+            "average_mmr": 1106,
+            "average_mmr_deviation": 9,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 16920068,
+                            "name": "floky009",
+                            "result": "win",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1019,
+                            "rating_diff": 24,
+                            "mmr": 1096,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 19121541,
+                            "name": "ZJ",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 1032,
+                            "rating_diff": -25,
+                            "mmr": 1115,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916484,
+            "started_at": "2024-05-02T02:47:42.000Z",
+            "updated_at": "2024-05-02T03:35:57.537Z",
+            "duration": 1519,
+            "map": "Forts",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Asia (SE)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 862,
+            "average_mmr_deviation": 13,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 15181925,
+                            "name": "\u5949\u5929\u5f20\u4f5c\u9716",
+                            "result": "loss",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 785,
+                            "rating_diff": -26,
+                            "mmr": 875,
+                            "mmr_diff": -17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 4921838,
+                            "name": "wxh",
+                            "result": "win",
+                            "civilization": "order_of_the_dragon",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 849,
+                            "mmr_diff": 25,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125915455,
+            "started_at": "2024-05-02T02:36:52.000Z",
+            "updated_at": "2024-05-02T03:35:57.506Z",
+            "duration": 2197,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 951,
+            "average_rating_deviation": 5,
+            "average_mmr": 1028,
+            "average_mmr_deviation": 10,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 9976970,
+                            "name": "TNT600XTTV",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 946,
+                            "rating_diff": -23,
+                            "mmr": 1018,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 1270822,
+                            "name": "AgeOfAmperes",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 956,
+                            "rating_diff": 22,
+                            "mmr": 1038,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125913425,
+            "started_at": "2024-05-02T02:15:05.000Z",
+            "updated_at": "2024-05-02T03:35:46.016Z",
+            "duration": 1314,
+            "map": "Rocky River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Australia",
+            "patch": 48,
+            "average_rating": 1081,
+            "average_rating_deviation": 8,
+            "average_mmr": 1168,
+            "average_mmr_deviation": 1,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 17673425,
+                            "name": "FDG560",
+                            "result": "loss",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": 1089,
+                            "rating_diff": -24,
+                            "mmr": 1167,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 2600315,
+                            "name": "Japoblazing",
+                            "result": "win",
+                            "civilization": "mongols",
+                            "civilization_randomized": false,
+                            "rating": 1073,
+                            "rating_diff": 23,
+                            "mmr": 1168,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125913422,
+            "started_at": "2024-05-02T02:15:04.000Z",
+            "updated_at": "2024-05-02T03:35:45.962Z",
+            "duration": 1329,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 637,
+            "average_rating_deviation": 48,
+            "average_mmr": 762,
+            "average_mmr_deviation": 7,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 4100387,
+                            "name": "lialiante",
+                            "result": "loss",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": 685,
+                            "rating_diff": -23,
+                            "mmr": 755,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 10772668,
+                            "name": "MonstruO0",
+                            "result": "win",
+                            "civilization": "malians",
+                            "civilization_randomized": false,
+                            "rating": 589,
+                            "rating_diff": 31,
+                            "mmr": 769,
+                            "mmr_diff": 21,
+                            "input_type": "controller"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125913071,
+            "started_at": "2024-05-02T02:11:33.000Z",
+            "updated_at": "2024-05-02T03:35:45.906Z",
+            "duration": 1537,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 811,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19530727,
+                            "name": "StateBongo94366",
+                            "result": "win",
+                            "civilization": "french",
+                            "civilization_randomized": false,
+                            "rating": 504,
+                            "rating_diff": 38,
+                            "mmr": 811,
+                            "mmr_diff": 19,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 19657232,
+                            "name": "\u98ce\u590f",
+                            "result": "loss",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125912718,
+            "started_at": "2024-05-02T02:07:42.000Z",
+            "updated_at": "2024-05-02T03:35:45.879Z",
+            "duration": 1768,
+            "map": "Four Lakes",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "India",
+            "patch": 48,
+            "average_rating": 767,
+            "average_rating_deviation": 32,
+            "average_mmr": 815,
+            "average_mmr_deviation": 12,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 9836325,
+                            "name": "3514988874",
+                            "result": "win",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 799,
+                            "rating_diff": 24,
+                            "mmr": 803,
+                            "mmr_diff": 17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 10253,
+                            "name": "HARRY POTTER",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 735,
+                            "rating_diff": -25,
+                            "mmr": 827,
+                            "mmr_diff": -17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125911141,
+            "started_at": "2024-05-02T01:50:35.000Z",
+            "updated_at": "2024-05-02T03:35:45.852Z",
+            "duration": 2798,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "India",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 667,
+            "average_mmr_deviation": 7,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 14364782,
+                            "name": "notbonjovi",
+                            "result": "win",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 659,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 18688033,
+                            "name": "Churchill",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 479,
+                            "rating_diff": -16,
+                            "mmr": 674,
+                            "mmr_diff": -21,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125910778,
+            "started_at": "2024-05-02T01:46:25.000Z",
+            "updated_at": "2024-05-02T03:35:45.810Z",
+            "duration": 3051,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Brazil",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 741,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19662425,
+                            "name": "GoobNoob",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 11827694,
+                            "name": "Boaventura",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 604,
+                            "rating_diff": 31,
+                            "mmr": 741,
+                            "mmr_diff": 17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125909346,
+            "started_at": "2024-05-02T01:30:28.000Z",
+            "updated_at": "2024-05-02T03:35:45.430Z",
+            "duration": 83,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 1196,
+            "average_rating_deviation": 29,
+            "average_mmr": 1254,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18012197,
+                            "name": "VoidMaker",
+                            "result": "loss",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1167,
+                            "rating_diff": -24,
+                            "mmr": 1254,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7547505,
+                            "name": "ChubbySnaps",
+                            "result": "win",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": 1225,
+                            "rating_diff": 23,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125909330,
+            "started_at": "2024-05-02T01:30:19.000Z",
+            "updated_at": "2024-05-02T03:35:45.412Z",
+            "duration": 108,
+            "map": "Four Lakes",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 503,
+            "average_rating_deviation": 60,
+            "average_mmr": 692,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19555003,
+                            "name": "Tyrantglade",
+                            "result": "win",
+                            "civilization": "abbasid_dynasty",
+                            "civilization_randomized": false,
+                            "rating": 443,
+                            "rating_diff": 31,
+                            "mmr": 692,
+                            "mmr_diff": 17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 4831484,
+                            "name": "DANIMAL",
+                            "result": "loss",
+                            "civilization": "byzantines",
+                            "civilization_randomized": false,
+                            "rating": 563,
+                            "rating_diff": -21,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916542,
+            "started_at": "2024-05-02T02:48:12.000Z",
+            "updated_at": "2024-05-02T03:35:45.364Z",
+            "duration": 1429,
+            "map": "Rocky River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1681,
+            "average_rating_deviation": 199,
+            "average_mmr": 1813,
+            "average_mmr_deviation": 59,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 3829877,
+                            "name": "zZOMyGoDZz",
+                            "result": "win",
+                            "civilization": "delhi_sultanate",
+                            "civilization_randomized": false,
+                            "rating": 1482,
+                            "rating_diff": 43,
+                            "mmr": 1753,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 9234953,
+                            "name": "gomdorifriends",
+                            "result": "loss",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1880,
+                            "rating_diff": -31,
+                            "mmr": 1872,
+                            "mmr_diff": -21,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916485,
+            "started_at": "2024-05-02T02:47:38.000Z",
+            "updated_at": "2024-05-02T03:35:45.321Z",
+            "duration": 1478,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 947,
+            "average_rating_deviation": 24,
+            "average_mmr": 1043,
+            "average_mmr_deviation": 24,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 8216705,
+                            "name": "Big Papa",
+                            "result": "loss",
+                            "civilization": "malians",
+                            "civilization_randomized": false,
+                            "rating": 923,
+                            "rating_diff": -21,
+                            "mmr": 1019,
+                            "mmr_diff": -13,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 12327690,
+                            "name": "PoorMimi",
+                            "result": "win",
+                            "civilization": "delhi_sultanate",
+                            "civilization_randomized": false,
+                            "rating": 971,
+                            "rating_diff": 20,
+                            "mmr": 1067,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916290,
+            "started_at": "2024-05-02T02:45:32.000Z",
+            "updated_at": "2024-05-02T03:35:45.283Z",
+            "duration": 1577,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 1175,
+            "average_rating_deviation": 60,
+            "average_mmr": 1257,
+            "average_mmr_deviation": 40,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 7039619,
+                            "name": "deejayphatboy",
+                            "result": "loss",
+                            "civilization": "zhu_xis_legacy",
+                            "civilization_randomized": false,
+                            "rating": 1115,
+                            "rating_diff": -14,
+                            "mmr": 1216,
+                            "mmr_diff": -12,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 17377385,
+                            "name": "Proud Gay Dad",
+                            "result": "win",
+                            "civilization": "mongols",
+                            "civilization_randomized": false,
+                            "rating": 1235,
+                            "rating_diff": 18,
+                            "mmr": 1297,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916007,
+            "started_at": "2024-05-02T02:42:42.000Z",
+            "updated_at": "2024-05-02T03:35:45.250Z",
+            "duration": 1749,
+            "map": "Cliffside",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "India",
+            "patch": 48,
+            "average_rating": 1611,
+            "average_rating_deviation": 9,
+            "average_mmr": 1677,
+            "average_mmr_deviation": 1,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 9101896,
+                            "name": "HOMS-.-SENPAI",
+                            "result": "win",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1601,
+                            "rating_diff": 23,
+                            "mmr": 1675,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 17230071,
+                            "name": "Lacrimosa",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 1620,
+                            "rating_diff": -24,
+                            "mmr": 1678,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125907808,
+            "started_at": "2024-05-02T01:13:44.000Z",
+            "updated_at": "2024-05-02T03:35:45.248Z",
+            "duration": 1090,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 855,
+            "average_rating_deviation": null,
+            "average_mmr": 941,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 16492348,
+                            "name": "SkgarthVader",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "controller"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 8377949,
+                            "name": "Orange",
+                            "result": "win",
+                            "civilization": "mongols",
+                            "civilization_randomized": false,
+                            "rating": 855,
+                            "rating_diff": 24,
+                            "mmr": 941,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125907763,
+            "started_at": "2024-05-02T01:13:06.000Z",
+            "updated_at": "2024-05-02T03:35:45.233Z",
+            "duration": 1151,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 970,
+            "average_rating_deviation": null,
+            "average_mmr": 1056,
+            "average_mmr_deviation": 6,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 3649201,
+                            "name": "ShockRat",
+                            "result": "loss",
+                            "civilization": "byzantines",
+                            "civilization_randomized": false,
+                            "rating": 970,
+                            "rating_diff": -23,
+                            "mmr": 1049,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 11231345,
+                            "name": "Nabulio1508",
+                            "result": "win",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 1062,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125906783,
+            "started_at": "2024-05-02T01:01:55.000Z",
+            "updated_at": "2024-05-02T03:35:45.216Z",
+            "duration": 1807,
+            "map": "Cliffside",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 939,
+            "average_rating_deviation": null,
+            "average_mmr": 956,
+            "average_mmr_deviation": 2,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18254317,
+                            "name": "pierotofy",
+                            "result": "win",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 954,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 5079488,
+                            "name": "Nova",
+                            "result": "loss",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 939,
+                            "rating_diff": -24,
+                            "mmr": 958,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125918547,
+            "started_at": "2024-05-02T03:10:56.000Z",
+            "updated_at": "2024-05-02T03:35:44.120Z",
+            "duration": 40,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": null,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18933892,
+                            "name": "Derrick",
+                            "result": "loss",
+                            "civilization": "mongols",
+                            "civilization_randomized": false,
+                            "rating": 324,
+                            "rating_diff": -12,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7209956,
+                            "name": "Koishi",
+                            "result": "win",
+                            "civilization": "ottomans",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 572,
+                            "mmr_diff": 14,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916884,
+            "started_at": "2024-05-02T02:51:41.000Z",
+            "updated_at": "2024-05-02T03:35:44.092Z",
+            "duration": 1221,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 763,
+            "average_rating_deviation": 84,
+            "average_mmr": 916,
+            "average_mmr_deviation": 6,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 8939741,
+                            "name": "KALTISIT",
+                            "result": "loss",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": 679,
+                            "rating_diff": -12,
+                            "mmr": 909,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 10954892,
+                            "name": "515272077",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 847,
+                            "rating_diff": 22,
+                            "mmr": 922,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125917426,
+            "started_at": "2024-05-02T02:57:29.000Z",
+            "updated_at": "2024-05-02T03:35:33.074Z",
+            "duration": 796,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Asia (SE)",
+            "patch": 48,
+            "average_rating": 1142,
+            "average_rating_deviation": 73,
+            "average_mmr": 1294,
+            "average_mmr_deviation": 13,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18629902,
+                            "name": "Satan",
+                            "result": "win",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": 1215,
+                            "rating_diff": 25,
+                            "mmr": 1281,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7931007,
+                            "name": "Gloria",
+                            "result": "loss",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": 1068,
+                            "rating_diff": -15,
+                            "mmr": 1307,
+                            "mmr_diff": -17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916720,
+            "started_at": "2024-05-02T02:49:58.000Z",
+            "updated_at": "2024-05-02T03:35:33.036Z",
+            "duration": 1280,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Australia",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 1027,
+            "average_mmr_deviation": 12,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 15358852,
+                            "name": "malcolm3",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 1015,
+                            "mmr_diff": -14,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 15611350,
+                            "name": "Toph",
+                            "result": "win",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 910,
+                            "rating_diff": 28,
+                            "mmr": 1039,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916416,
+            "started_at": "2024-05-02T02:47:03.000Z",
+            "updated_at": "2024-05-02T03:35:32.992Z",
+            "duration": 1437,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1219,
+            "average_rating_deviation": 20,
+            "average_mmr": 1308,
+            "average_mmr_deviation": 10,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 10563056,
+                            "name": "Do The Feeling Haunt You?",
+                            "result": "loss",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": 1198,
+                            "rating_diff": -23,
+                            "mmr": 1297,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7088735,
+                            "name": "muhahaha100",
+                            "result": "win",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 1239,
+                            "rating_diff": 22,
+                            "mmr": 1318,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125915555,
+            "started_at": "2024-05-02T02:38:06.000Z",
+            "updated_at": "2024-05-02T03:35:32.964Z",
+            "duration": 1953,
+            "map": "Rocky River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 1010,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19170962,
+                            "name": "huhu",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 18394146,
+                            "name": "Jawws",
+                            "result": "win",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 922,
+                            "rating_diff": 22,
+                            "mmr": 1010,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916798,
+            "started_at": "2024-05-02T02:50:48.000Z",
+            "updated_at": "2024-05-02T03:35:32.458Z",
+            "duration": 1207,
+            "map": "Four Lakes",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Asia (SE)",
+            "patch": 48,
+            "average_rating": 734,
+            "average_rating_deviation": 7,
+            "average_mmr": 832,
+            "average_mmr_deviation": 3,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 11682032,
+                            "name": "Accord",
+                            "result": "win",
+                            "civilization": "ottomans",
+                            "civilization_randomized": false,
+                            "rating": 741,
+                            "rating_diff": 23,
+                            "mmr": 829,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 11032433,
+                            "name": "Hypocrite Bullet",
+                            "result": "loss",
+                            "civilization": "french",
+                            "civilization_randomized": false,
+                            "rating": 726,
+                            "rating_diff": -19,
+                            "mmr": 835,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125915718,
+            "started_at": "2024-05-02T02:39:46.000Z",
+            "updated_at": "2024-05-02T03:35:32.383Z",
+            "duration": 1877,
+            "map": "Cliffside",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Brazil",
+            "patch": 48,
+            "average_rating": 715,
+            "average_rating_deviation": 1,
+            "average_mmr": 777,
+            "average_mmr_deviation": 8,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18240874,
+                            "name": "guima",
+                            "result": "loss",
+                            "civilization": "delhi_sultanate",
+                            "civilization_randomized": false,
+                            "rating": 714,
+                            "rating_diff": -23,
+                            "mmr": 768,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 9201106,
+                            "name": "buchanator3000",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 716,
+                            "rating_diff": 22,
+                            "mmr": 785,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125913580,
+            "started_at": "2024-05-02T02:16:42.000Z",
+            "updated_at": "2024-05-02T03:35:28.890Z",
+            "duration": 1171,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 902,
+            "average_rating_deviation": 36,
+            "average_mmr": 946,
+            "average_mmr_deviation": 5,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 17044204,
+                            "name": "\u4f3c\u6e05\u6d12_\u5b9e\u65e0\u5948",
+                            "result": "win",
+                            "civilization": "abbasid_dynasty",
+                            "civilization_randomized": false,
+                            "rating": 938,
+                            "rating_diff": 24,
+                            "mmr": 941,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 1130430,
+                            "name": "WhereToGo",
+                            "result": "loss",
+                            "civilization": "jeanne_darc",
+                            "civilization_randomized": false,
+                            "rating": 866,
+                            "rating_diff": -25,
+                            "mmr": 951,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125913360,
+            "started_at": "2024-05-02T02:14:27.000Z",
+            "updated_at": "2024-05-02T03:35:28.864Z",
+            "duration": 1317,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Asia (SE)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 763,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 7454384,
+                            "name": "CHINMIi",
+                            "result": "loss",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 1842673,
+                            "name": "Reb",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 532,
+                            "rating_diff": 34,
+                            "mmr": 763,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125912544,
+            "started_at": "2024-05-02T02:05:54.000Z",
+            "updated_at": "2024-05-02T03:35:28.832Z",
+            "duration": 1807,
+            "map": "Forts",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 734,
+            "average_rating_deviation": 35,
+            "average_mmr": 766,
+            "average_mmr_deviation": 22,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 8464618,
+                            "name": "XBanzheeX",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 769,
+                            "rating_diff": -21,
+                            "mmr": 744,
+                            "mmr_diff": -13,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 17616960,
+                            "name": "NYCxPaPaBEAR",
+                            "result": "win",
+                            "civilization": "mongols",
+                            "civilization_randomized": false,
+                            "rating": 699,
+                            "rating_diff": 20,
+                            "mmr": 788,
+                            "mmr_diff": 13,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916968,
+            "started_at": "2024-05-02T02:52:25.000Z",
+            "updated_at": "2024-05-02T03:35:25.248Z",
+            "duration": 1064,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 1057,
+            "average_rating_deviation": 47,
+            "average_mmr": 1116,
+            "average_mmr_deviation": 44,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 6133327,
+                            "name": "Ter",
+                            "result": "win",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1104,
+                            "rating_diff": 18,
+                            "mmr": 1160,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 18543232,
+                            "name": "Ash",
+                            "result": "loss",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": 1009,
+                            "rating_diff": -19,
+                            "mmr": 1072,
+                            "mmr_diff": -12,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125915286,
+            "started_at": "2024-05-02T02:35:12.000Z",
+            "updated_at": "2024-05-02T03:35:25.211Z",
+            "duration": 2119,
+            "map": "Danube River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1585,
+            "average_rating_deviation": 12,
+            "average_mmr": 1642,
+            "average_mmr_deviation": 2,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 8297910,
+                            "name": "willsh2010",
+                            "result": "loss",
+                            "civilization": "abbasid_dynasty",
+                            "civilization_randomized": false,
+                            "rating": 1597,
+                            "rating_diff": -24,
+                            "mmr": 1639,
+                            "mmr_diff": -15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 6905721,
+                            "name": "Armeria",
+                            "result": "win",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": 1572,
+                            "rating_diff": 23,
+                            "mmr": 1644,
+                            "mmr_diff": 15,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916966,
+            "started_at": "2024-05-02T02:52:20.000Z",
+            "updated_at": "2024-05-02T03:35:24.472Z",
+            "duration": 1081,
+            "map": "Rocky River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Australia",
+            "patch": 48,
+            "average_rating": 846,
+            "average_rating_deviation": 11,
+            "average_mmr": 925,
+            "average_mmr_deviation": 13,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18607571,
+                            "name": "\u4e18\u4e0a\u75af\u5b50",
+                            "result": "loss",
+                            "civilization": "malians",
+                            "civilization_randomized": false,
+                            "rating": 857,
+                            "rating_diff": -22,
+                            "mmr": 912,
+                            "mmr_diff": -14,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 14516072,
+                            "name": "AmericanJeremy",
+                            "result": "win",
+                            "civilization": "abbasid_dynasty",
+                            "civilization_randomized": false,
+                            "rating": 834,
+                            "rating_diff": 26,
+                            "mmr": 938,
+                            "mmr_diff": 14,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125914624,
+            "started_at": "2024-05-02T02:27:48.000Z",
+            "updated_at": "2024-05-02T03:35:23.516Z",
+            "duration": 2527,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "UK",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 853,
+            "average_mmr_deviation": 9,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 3941596,
+                            "name": "saleboom",
+                            "result": "win",
+                            "civilization": "chinese",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 844,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 4958076,
+                            "name": "Lasdgifbang",
+                            "result": "loss",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": 784,
+                            "rating_diff": -25,
+                            "mmr": 862,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916728,
+            "started_at": "2024-05-02T02:49:57.000Z",
+            "updated_at": "2024-05-02T03:35:17.910Z",
+            "duration": 1156,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 1039,
+            "average_rating_deviation": 16,
+            "average_mmr": 1123,
+            "average_mmr_deviation": 11,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18449290,
+                            "name": "guaitarilla",
+                            "result": "win",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 1022,
+                            "rating_diff": 24,
+                            "mmr": 1111,
+                            "mmr_diff": 17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7099800,
+                            "name": "]NsR[ Rasta Jedi",
+                            "result": "loss",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 1055,
+                            "rating_diff": -25,
+                            "mmr": 1134,
+                            "mmr_diff": -17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916442,
+            "started_at": "2024-05-02T02:47:09.000Z",
+            "updated_at": "2024-05-02T03:35:17.257Z",
+            "duration": 1306,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 1176,
+            "average_rating_deviation": 5,
+            "average_mmr": 1219,
+            "average_mmr_deviation": 27,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 3604892,
+                            "name": "Tymacker",
+                            "result": "loss",
+                            "civilization": "rus",
+                            "civilization_randomized": false,
+                            "rating": 1181,
+                            "rating_diff": -21,
+                            "mmr": 1192,
+                            "mmr_diff": -13,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 15590875,
+                            "name": "Tomato",
+                            "result": "win",
+                            "civilization": "byzantines",
+                            "civilization_randomized": false,
+                            "rating": 1171,
+                            "rating_diff": 20,
+                            "mmr": 1246,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916332,
+            "started_at": "2024-05-02T02:46:02.000Z",
+            "updated_at": "2024-05-02T03:35:17.227Z",
+            "duration": 1359,
+            "map": "Rocky River",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 1309,
+            "average_rating_deviation": 5,
+            "average_mmr": 1370,
+            "average_mmr_deviation": 11,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 6684716,
+                            "name": "thecArsonist",
+                            "result": "loss",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": 1304,
+                            "rating_diff": -23,
+                            "mmr": 1358,
+                            "mmr_diff": -14,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 11842553,
+                            "name": "Zz_zZ",
+                            "result": "win",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": 1314,
+                            "rating_diff": 22,
+                            "mmr": 1381,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916313,
+            "started_at": "2024-05-02T02:45:59.000Z",
+            "updated_at": "2024-05-02T03:35:17.142Z",
+            "duration": 1375,
+            "map": "Dry Arabia",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1060,
+            "average_rating_deviation": 18,
+            "average_mmr": 1135,
+            "average_mmr_deviation": 8,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 9142354,
+                            "name": "MKCQ",
+                            "result": "win",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": 1078,
+                            "rating_diff": 24,
+                            "mmr": 1126,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7659072,
+                            "name": "LavishFanatic8",
+                            "result": "loss",
+                            "civilization": "byzantines",
+                            "civilization_randomized": false,
+                            "rating": 1042,
+                            "rating_diff": -20,
+                            "mmr": 1143,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125915239,
+            "started_at": "2024-05-02T02:34:40.000Z",
+            "updated_at": "2024-05-02T03:35:17.107Z",
+            "duration": 2077,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Korea",
+            "patch": 48,
+            "average_rating": 1196,
+            "average_rating_deviation": 48,
+            "average_mmr": 1279,
+            "average_mmr_deviation": 41,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 8565229,
+                            "name": "PaperBerry20414",
+                            "result": "win",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1148,
+                            "rating_diff": 28,
+                            "mmr": 1237,
+                            "mmr_diff": 19,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 9411181,
+                            "name": "\u0f3a\u6885\u0f12\u8bfa\u0f3b",
+                            "result": "loss",
+                            "civilization": "mongols",
+                            "civilization_randomized": false,
+                            "rating": 1244,
+                            "rating_diff": -29,
+                            "mmr": 1320,
+                            "mmr_diff": -19,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125918061,
+            "started_at": "2024-05-02T03:04:51.000Z",
+            "updated_at": "2024-05-02T03:35:16.492Z",
+            "duration": 276,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "Asia (SE)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": null,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 18840254,
+                            "name": "\u9a6c\u4e01\u5b81",
+                            "result": "win",
+                            "civilization": "ottomans",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 11560357,
+                            "name": "Hist-ShowTime-\u51ef",
+                            "result": "loss",
+                            "civilization": "holy_roman_empire",
+                            "civilization_randomized": false,
+                            "rating": 726,
+                            "rating_diff": -14,
+                            "mmr": 963,
+                            "mmr_diff": -18,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125918946,
+            "started_at": "2024-05-02T03:15:24.000Z",
+            "updated_at": "2024-05-02T03:34:28.787Z",
+            "duration": 797,
+            "map": "High View",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 585,
+            "average_mmr_deviation": 1,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19240977,
+                            "name": "I)emth",
+                            "result": "win",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 443,
+                            "rating_diff": 30,
+                            "mmr": 583,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 7209956,
+                            "name": "Koishi",
+                            "result": "loss",
+                            "civilization": "ottomans",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 586,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916679,
+            "started_at": "2024-05-02T02:49:23.000Z",
+            "updated_at": "2024-05-02T03:34:28.760Z",
+            "duration": 2391,
+            "map": "Lipany",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (E)",
+            "patch": 48,
+            "average_rating": 594,
+            "average_rating_deviation": 83,
+            "average_mmr": 729,
+            "average_mmr_deviation": 13,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 10527141,
+                            "name": "blyyman",
+                            "result": "loss",
+                            "civilization": "ayyubids",
+                            "civilization_randomized": false,
+                            "rating": 677,
+                            "rating_diff": -22,
+                            "mmr": 716,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 3443501,
+                            "name": "ITSIVIYTURN",
+                            "result": "win",
+                            "civilization": "malians",
+                            "civilization_randomized": false,
+                            "rating": 510,
+                            "rating_diff": 32,
+                            "mmr": 742,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125920115,
+            "started_at": "2024-05-02T03:29:44.000Z",
+            "updated_at": "2024-05-02T03:34:13.196Z",
+            "duration": null,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": 763,
+            "average_mmr_deviation": 13,
+            "ongoing": true,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 19376838,
+                            "name": "\u90b5\u5c0a\u4eae",
+                            "result": null,
+                            "civilization": "jeanne_darc",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 749,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 13214447,
+                            "name": "sca121212",
+                            "result": null,
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": 776,
+                            "mmr_diff": null,
+                            "input_type": "controller"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125916827,
+            "started_at": "2024-05-02T02:51:04.000Z",
+            "updated_at": "2024-05-02T03:33:57.020Z",
+            "duration": 1039,
+            "map": "Forts",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 1305,
+            "average_rating_deviation": 63,
+            "average_mmr": 1446,
+            "average_mmr_deviation": 1,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 14724752,
+                            "name": "little pig",
+                            "result": "win",
+                            "civilization": "jeanne_darc",
+                            "civilization_randomized": false,
+                            "rating": 1241,
+                            "rating_diff": 33,
+                            "mmr": 1444,
+                            "mmr_diff": 16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 8779715,
+                            "name": "Papercut",
+                            "result": "loss",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1368,
+                            "rating_diff": -24,
+                            "mmr": 1447,
+                            "mmr_diff": -16,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125919730,
+            "started_at": "2024-05-02T03:24:34.000Z",
+            "updated_at": "2024-05-02T03:33:49.824Z",
+            "duration": 217,
+            "map": "Cliffside",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": null,
+            "average_rating_deviation": null,
+            "average_mmr": null,
+            "average_mmr_deviation": null,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 3587408,
+                            "name": "mebak",
+                            "result": "win",
+                            "civilization": "delhi_sultanate",
+                            "civilization_randomized": false,
+                            "rating": null,
+                            "rating_diff": null,
+                            "mmr": null,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 15846364,
+                            "name": "bkeuamra",
+                            "result": "loss",
+                            "civilization": "order_of_the_dragon",
+                            "civilization_randomized": false,
+                            "rating": 1486,
+                            "rating_diff": -26,
+                            "mmr": 1549,
+                            "mmr_diff": -17,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "game_id": 125915655,
+            "started_at": "2024-05-02T02:39:08.000Z",
+            "updated_at": "2024-05-02T03:33:46.294Z",
+            "duration": 1674,
+            "map": "Gorge",
+            "kind": "rm_1v1",
+            "leaderboard": "rm_solo",
+            "mmr_leaderboard": "rm_1v1",
+            "season": 7,
+            "server": "USA (W)",
+            "patch": 48,
+            "average_rating": 1270,
+            "average_rating_deviation": 36,
+            "average_mmr": 1351,
+            "average_mmr_deviation": 23,
+            "ongoing": false,
+            "just_finished": false,
+            "teams": [
+                [
+                    {
+                        "player": {
+                            "profile_id": 9887856,
+                            "name": "Zan",
+                            "result": "win",
+                            "civilization": "japanese",
+                            "civilization_randomized": false,
+                            "rating": 1234,
+                            "rating_diff": 26,
+                            "mmr": 1327,
+                            "mmr_diff": 18,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "player": {
+                            "profile_id": 6689773,
+                            "name": "EAT\u8ad6(\u3073\u3093\u304b\u3093\u6226\u58eb)",
+                            "result": "loss",
+                            "civilization": "english",
+                            "civilization_randomized": false,
+                            "rating": 1306,
+                            "rating_diff": -27,
+                            "mmr": 1374,
+                            "mmr_diff": null,
+                            "input_type": "keyboard"
+                        }
+                    }
+                ]
+            ]
+        }
+    ]
+}
